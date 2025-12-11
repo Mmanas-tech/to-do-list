@@ -1,7 +1,32 @@
-hello everyone im manas..and this is my first project on github after the cs50 harvard's course
-so...this is an todo app and this is the perfect place where u have arrived for understanding how it works 
-and also how to make it work/ how to run it 
-to run it loclly 
+# 📋 Todo App
 
-step 1: download required files 
-open 
+Hello everyone! I'm **Manas**, and this is my **first project on GitHub** after completing the **CS50 Harvard course**.
+
+This repository contains a simple and clean **Todo Application**, built using **Node.js**.  
+If you’re here to understand **how it works** or **how to run it locally**, you’re in the right place!
+
+---
+
+## 🚀 Features
+- Add tasks  
+- Delete tasks  
+- Mark tasks as completed  
+- Simple and fast UI  
+- Node.js + npm based project  
+
+---
+
+## 🖥️ How to Run Locally
+
+### 1️⃣ **Open the project folder in terminal**
+- Download or clone this repository  
+- Right-click the folder → **Open in Terminal**
+
+### 2️⃣ **Install dependencies**
+```bash
+npm install
+
+*Feel free to explore the code and suggest improvements.
+This is my first GitHub project, so feedback is always appreciated!*
+
+
